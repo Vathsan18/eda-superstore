@@ -47,5 +47,3 @@ The project covers the following key tasks:
 - **Jupyter Notebook** – interactive analysis
 
 ---
-
-```bash
